@@ -1,4 +1,4 @@
-# CVE-Profiling
+# Mujaz
 
 CVE and vulnerability profiling aim to create abstractive summary from features included in the original CVE description by extracting differetn features and use pre-trained model on Those features. 
 
